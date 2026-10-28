@@ -1,0 +1,11 @@
+# the script that prints the report tables, it is not part of the deliverable
+report_gen.py
+
+# colab / drive output (checkpoints, csv tables, figures)
+outputs/
+report_figs/
+*.pt
+*.csv
+
+# notebooks
+.ipynb_checkpoints/
